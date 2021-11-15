@@ -1,0 +1,10 @@
+{ 
+	"applicationid":"", //Application Id
+ 	"name":"", 
+ 	"details":"", 
+ 	"state":"",
+ 	"imagename":"", // Large Image Name
+  "smallimgname": "", // Small Image name
+ 	"type":"WATCHING" //WATCHING, LISTENING, PLAYING, STREAMING 
+}
+
